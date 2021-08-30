@@ -1,3 +1,5 @@
+UPNG.js fork with `module.exports`.
+
 # UPNG.js
 A small, fast and advanced PNG / APNG encoder and decoder. It is the main PNG engine for [Photopea image editor](https://www.photopea.com).
 

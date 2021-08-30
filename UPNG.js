@@ -1,3 +1,4 @@
+const pako = require("pako");
 
 var UPNG = {};
 

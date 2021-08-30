@@ -1039,3 +1039,5 @@ UPNG.encode.concatRGBA = function(bufs) {
 	}
 	return nimg.buffer;
 }
+
+module.exports = UPNG;
